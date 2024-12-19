@@ -15,7 +15,7 @@ ntgcalls==1.1.2
 Flask==2.0.3
 gunicorn==20.1.0
 pykeyboard
-pip3 install https://github.com/PyrogramMod/PyrogramMod/archive/refs/heads/main.zip
+https://github.com/PyrogramMod/PyrogramMod/archive/refs/heads/main.zip
 python-dotenv
 pyyaml
 requests
