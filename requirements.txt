@@ -15,7 +15,7 @@ ntgcalls==1.1.2
 Flask==2.0.3
 gunicorn==20.1.0
 pykeyboard
-pyrofork==2.3.32
+https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.23.zip
 python-dotenv
 pyyaml
 requests
