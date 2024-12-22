@@ -24,7 +24,7 @@ __help__ = """
 async def play_music(bot: Userbot, m: Message):
     hmm = await send(m=m, text="<code>Processing....</code>")
     await hmm.edit(
-        "[ᴛʀʏ](https://t.me/KristineMusicBot?startgroup=True&admin=delete_messages+invite_users) : @KristineMusicBot",
+        "[ᴛʀʏ](https://t.me/KristineMusicBot?startgroup=True&admin=delete_messages+invite_users) : @SpotifyxmusicBot",
         disable_web_page_preview=True,
     )
     return
